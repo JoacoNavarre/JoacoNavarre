@@ -31,8 +31,10 @@ I like to work in team project combining both soft and tech skills with users an
 - React Native
 
 ### A little peak of my projects🔭
-![PI-Dogs](https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20124349.png)
-![PG-Shoes](https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20132930.png)
+
+<a href="https://github.com/JoacoNavarre/PI-Dogs-Navarre"><img src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20124349.png"></a>
+
+<a href="https://github.com/fedesiri/HenryShoesPF">![PG-Shoes](https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20132930.png)
 
 <h2>Do tou want to know more? Contact me!📫</h2>
 <p align="left">
