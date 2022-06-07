@@ -1,4 +1,4 @@
-![Header](./github-header-image)
+![Header](https://raw.githubusercontent.com/JoacoNavarre/JoacoNavarre/master/github-header-image)
 
 # Hi, I'm Joaco Navarre 👋
 
