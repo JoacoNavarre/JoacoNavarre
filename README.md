@@ -32,9 +32,14 @@ I like to work in team project combining both soft and tech skills with users an
 
 ### A little peak of my projects🔭
 
-<a href="https://github.com/JoacoNavarre/PI-Dogs-Navarre"><img src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20124349.png"></a>
+<br/>
 
-<a href="https://github.com/fedesiri/HenryShoesPF">![PG-Shoes](https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20132930.png)
+<p align="center">
+<a href="https://github.com/JoacoNavarre/PI-Dogs-Navarre"><img height="200" src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20124349.png"></a>
+</p>
+<p align="center">
+<a href="https://github.com/fedesiri/HenryShoesPF"><img height="200" src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20132930.png"></a>
+</p>
 
 <h2>Do tou want to know more? Contact me!📫</h2>
 <p align="left">
