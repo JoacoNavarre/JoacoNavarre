@@ -35,14 +35,14 @@ I like to work in team project combining both soft and tech skills with users an
 <h4 align="center">Henry Shoes - E-Commerce Group Project</>
 <br/>
 <p align="left">
-<a href="https://github.com/JoacoNavarre/PI-Dogs-Navarre"><img height="200" src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20132930.png"><img height="200" src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20132643.png">
+<a href="https://github.com/fedesiri/HenryShoesPF"><img height="200" src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20132930.png"><img height="200" src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20132643.png">
 </a>
 </p>
 
 <h4 align="center">Dogs Catalog - Individual Project</>
 <br/>
 <p align="left">
-<a href="https://github.com/fedesiri/HenryShoesPF"><img height="200" width="400"src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20124349.png"><img height="200" src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20124530.png">
+<a href="https://github.com/JoacoNavarre/PI-Dogs-Navarre"><img height="200" width="400"src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20124349.png"><img height="200" src="https://github.com/JoacoNavarre/JoacoNavarre/blob/main/Captura%20de%20pantalla%202022-06-07%20124530.png">
 </a>
 </p>
 
