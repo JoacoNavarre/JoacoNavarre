@@ -50,6 +50,7 @@ I like to work in team project combining both soft and tech skills with users an
 <p align="left">
 	<a href="https://github.com/JoacoNavarre"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/joaquin-navarre"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<p>📫 joaquinnavarre@gmail.com</p>
 </p>
 
 
